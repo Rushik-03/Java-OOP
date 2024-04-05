@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d63b3b-634f-4e5b-8056-2e13d3f7040d" name="Changes" comment="Java-OOPs Day-5">
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomGenArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/WildCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Comparing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Comparing/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Lambdafuncs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClasses/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClasses/Mother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClasses/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711065284540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java-OOPs Day-5">
+      <option name="closed" value="true" />
+      <created>1712301399956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712301399956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
