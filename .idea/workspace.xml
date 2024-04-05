@@ -5,22 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d63b3b-634f-4e5b-8056-2e13d3f7040d" name="Changes" comment="Java-OOPs Day-5">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/Sonn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClasses/daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/K.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessModifiers/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Private.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessModifiers/Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomGenArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/WildCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/NiceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClasses/Mother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClasses/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClasses/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,10 +52,13 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A.executor": "Run",
+    "Application.CustomArrayList.executor": "Run",
+    "Application.CustomGenArrayList.executor": "Run",
     "Application.Final.executor": "Run",
     "Application.InnerClasses.executor": "Run",
     "Application.K.executor": "Run",
@@ -63,6 +68,7 @@
     "Application.Run.executor": "Run",
     "Application.Single.executor": "Run",
     "Application.Static.executor": "Run",
+    "Application.StaticOverriding.executor": "Run",
     "Application.WrapperExm.executor": "Run",
     "Application.every.executor": "Run",
     "Application.kill.executor": "Run",
@@ -78,6 +84,11 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Generics" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710925501158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java-OOPs Day-5">
+      <option name="closed" value="true" />
+      <created>1711065284540</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711065284540</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
