@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8d63b3b-634f-4e5b-8056-2e13d3f7040d" name="Changes" comment="Java-OOPs Day-5">
-      <change afterPath="$PROJECT_DIR$/src/Generics/Comparing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Comparing/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Lambdafuncs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cloning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumsPackg/EnumsEverything.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/MyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +48,11 @@
     "Application.A.executor": "Run",
     "Application.CustomArrayList.executor": "Run",
     "Application.CustomGenArrayList.executor": "Run",
+    "Application.EnumsEverything.executor": "Run",
     "Application.Final.executor": "Run",
     "Application.InnerClasses.executor": "Run",
     "Application.K.executor": "Run",
+    "Application.Lambdafuncs.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mug.executor": "Run",
     "Application.Polymorphism.executor": "Run",
@@ -124,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712301399956</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java-OOPs Day-5">
+      <option name="closed" value="true" />
+      <created>1712318664359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712318664359</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
